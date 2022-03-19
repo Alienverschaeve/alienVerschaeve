@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Alienverschaeve/alienVerschaeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Alien....
 
 - 🍼 Born and raised in Belgium
+- 👵 32 years old.
 - 🌱 In training to become a full stack developer
 - 💻 I’m looking to collaborate in programming!
 - 🤔 I've worked in Marketing and Tourism.
